@@ -1,0 +1,17 @@
+.glow-text {
+  /* color: #ffffff;
+  text-shadow: 0 0 5px #3aa8c9, 0 0 10px #3aa8c9, 0 0 20px #3aa8c9; */
+}
+.video, .imagen{
+    max-width: 250px;
+    margin: 0 auto;
+}
+#tiresult-p {
+    text-align: center !important;
+    font-size: 2px !important;
+    line-height: 2.2px !important;
+    font-weight: bolder !important;
+    font-family: "Consolas", monospace !important;
+    --fs: 23px !important;
+    -webkit-text-size-adjust: none;
+}
